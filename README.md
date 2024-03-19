@@ -4,8 +4,9 @@
 ![](./pictures/1692971822402.jfif)
 
 ### 💻 Experience
+- Engineering management
 - Backend web development (Java, Golang)
-- Quality assurance
+- Quality assurance and automation
 - Docker
 - Design Patterns
 - Side projects
